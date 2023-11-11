@@ -1,0 +1,29 @@
+.header{
+    margin: 0px;
+    padding: 20px;
+    background-color: rgb(205, 231, 255);
+    align-items: center;
+   
+    
+
+}
+.header a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    font-style: bold;
+    color: black;
+    padding: 18px;
+    text-decoration: none;
+    
+}
+.mainfit{
+    background-color: rgba(205, 250, 255, 0.81);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin: 30px;
+    padding: 140px;
+    padding-left: 180px;
+    margin-left: 60px;
+    display: flex;
+}
